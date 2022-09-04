@@ -123,5 +123,5 @@ object StreamWithActors extends App {
   scheduler.scheduleOnce(12 seconds) {
     system.terminate()
   }
-
+1 
 }
